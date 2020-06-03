@@ -1,0 +1,43 @@
+<VisualMicro>
+  <Program Name="_01_Rad_Sensor_BC4" Ext=".ino" Location="D:\discod\datos\proyectos\12_RadGPS\programas\_01_Rad_Sensor_BC4">
+    <Compile CompilerErrors="0" ConfigurationName="Debug" StopOnError="False" OptimiseLibs="True" OptimiseCore="True" BuildPath="C:\Users\javier\AppData\Local\VMicro\Arduino\Builds\_01_Rad_Sensor_BC4\mega2560" IncludeDebug="0" IncludesDebug="0" SketchName="_01_Rad_Sensor_BC4" IsCompiled="1" />
+    <Platform Name="Arduino">
+      <Board Name="mega2560" Description="Arduino Mega 2560 or Mega ADK" CoreFolder="C:\Program Files\arduino-1.0.1\hardware\arduino\cores\arduino" VariantFullPath="C:\Program Files\arduino-1.0.1\hardware\arduino\variants\mega" />
+    </Platform>
+    <VCCodeModel>
+      <VCCodeMacros>
+        <VCCodeMacro Name="ARDUINO" Value="101" />
+        <VCCodeMacro Name="__AVR_ATmega2560__" Value="" />
+        <VCCodeMacro Name="F_CPU" Value="16000000L" />
+        <VCCodeMacro Name="__AVR__" Value="" />
+        <VCCodeMacro Name="__cplusplus" Value="" />
+        <VCCodeMacro Name="__attribute__" Value="" />
+        <VCCodeMacro Name="__inline__" Value="" />
+        <VCCodeMacro Name="__asm__" Value="" />
+        <VCCodeMacro Name="__extension__" Value="" />
+        <VCCodeMacro Name="__ATTR_PURE__" Value="" />
+        <VCCodeMacro Name="__ATTR_CONST__" Value="" />
+        <VCCodeMacro Name="__inline__" Value="" />
+        <VCCodeMacro Name="__asm__" Value="" />
+        <VCCodeMacro Name="__volatile__" Value="" />
+        <VCCodeMacro Name="__builtin_va_list" Value="" />
+        <VCCodeMacro Name="__builtin_va_start" Value="" />
+        <VCCodeMacro Name="__builtin_va_end" Value="" />
+        <VCCodeMacro Name="__DOXYGEN__" Value="" />
+        <VCCodeMacro Name="prog_void" Value="" />
+        <VCCodeMacro Name="PGM_VOID_P" Value="int" />
+        <VCCodeMacro Name="NOINLINE" Value="__attribute__((noinline))" />
+        <VCCodeMacro Name="TH1" Value="45" />
+        <VCCodeMacro Name="TH2" Value="95" />
+        <VCCodeMacro Name="TH3" Value="200" />
+        <VCCodeMacro Name="TH4" Value="400" />
+        <VCCodeMacro Name="TH5" Value="600" />
+        <VCCodeMacro Name="CONV_FACTOR" Value="0.00812" />
+        <VCCodeMacro Name="bc4_serial" Value="Serial1" />
+      </VCCodeMacros>
+      <VCCodeVariables>
+        <VCCodeVariable Name="lcd" />
+      </VCCodeVariables>
+    </VCCodeModel>
+  </Program>
+</VisualMicro>
