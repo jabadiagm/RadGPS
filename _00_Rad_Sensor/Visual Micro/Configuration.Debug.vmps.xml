@@ -1,0 +1,8 @@
+<VisualMicro>
+  <Program Name="_00_Rad_Sensor" Ext=".ino" Location="D:\discod\datos\proyectos\12_RadGPS\programas\_00_Rad_Sensor">
+    <Compile IsCompiled="0" CompilerErrors="0" ConfigurationName="Debug" StopOnError="False" OptimiseLibs="True" OptimiseCore="True" BuildPath="C:\Users\javier\AppData\Local\VMicro\Arduino\Builds\_00_Rad_Sensor\mega2560" />
+    <Platform Name="Arduino">
+      <Board Name="mega2560" Description="Arduino Mega 2560 or Mega ADK" CoreFolder="C:\Program Files\arduino-1.0.1\hardware\arduino\cores\arduino" VariantFullPath="C:\Program Files\arduino-1.0.1\hardware\arduino\variants\mega" />
+    </Platform>
+  </Program>
+</VisualMicro>
